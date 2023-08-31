@@ -1,6 +1,7 @@
 .container__small-card {
     width: 700px;
     margin-bottom: 10px;
+    font-size: 12px;
 }
 
 .container__small-card-content {
@@ -22,5 +23,5 @@
 
 .container__small-card-separator {
     margin-top: 10px;
-    
+    margin-bottom: 15px ;
 }

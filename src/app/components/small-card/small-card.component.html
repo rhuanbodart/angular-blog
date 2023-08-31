@@ -1,14 +1,13 @@
 <div class="container__small-card">
     <div class="container__small-card-content">
         <div class="small-card__photo">
-            <img src="https://miro.medium.com/v2/resize:fit:1400/1*bMgQ8MhbnQexpqHgIgBJPA.png" 
+            <img src= "{{photoCover}}"
             alt=""
             width=""      
-            
             >
             </div>
         <div class="small-card__title">
-            <h1><a href="#">Saiu a nova versão do    Angular</a></h1>
+            <h1><a [routerLink]="['content', Id]">{{cardTitle}}</a></h1>
             </div>
     </div>
 
