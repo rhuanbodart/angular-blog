@@ -1,10 +1,13 @@
-# AngularBlog
+![Preview-AngularBlog](https://github.com/rhuanbodart/angular-blog/blob/main/ideia/AngularBlog.jpg)
 
+# Blog creation with Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
-## Development server
+You can see the spoiler at:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[![Watch the video](https://i9.ytimg.com/vi/2-y9gNFpILM/mqdefault.jpg?sqp=CMCXw6cG&rs=AOn4CLCk_lRvF4-8aIwsSbXQS5CeMl2K6A)](https://youtu.be/2-y9gNFpILM)
+
+## Development server
 
 ## Code scaffolding
 
