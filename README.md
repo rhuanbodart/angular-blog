@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 You can see the spoiler by clicking on the image below
 
-[![Watch the video](https://i9.ytimg.com/vi/2-y9gNFpILM/mqdefault.jpg?sqp=CMCXw6cG&rs=AOn4CLCk_lRvF4-8aIwsSbXQS5CeMl2K6A)](https://youtu.be/2-y9gNFpILM)
+[![Watch the video](https://i9.ytimg.com/vi_webp/2-y9gNFpILM/mqdefault.webp?sqp=CPS0x6cG&rs=AOn4CLD4talRd0bdcAuFHVdckIMXvBLI3w)](https://youtu.be/2-y9gNFpILM)
 
 # Technologies
 
